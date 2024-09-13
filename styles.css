@@ -1,3 +1,7 @@
+body {
+    background-color: #151515;
+}
+
 .header {
     background-color: #2f2f2f;
     position: relative;
@@ -9,6 +13,11 @@
 
 .header-content {
     position: fixed;
-    z-index: 1;
     text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Rangile', serif;
+    font-size: 90px;
 }
