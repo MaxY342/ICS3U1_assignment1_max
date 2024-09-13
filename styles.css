@@ -1,4 +1,5 @@
 body {
+    height: 2000px;
     background-color: #151515;
 }
 
@@ -9,15 +10,26 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
+    background-size: cover;
+    transition: opacity 1s ease;
 }
 
 .header-content {
     position: fixed;
     text-align: center;
+    z-index: 1;
 }
 
 h1 {
     color: white;
     font-family: 'Rangile', serif;
     font-size: 90px;
+}
+
+.text-block {
+    background-color: #151515;
+    z-index: 2;
+    position: relative;
+    margin-bottom: 12rem;
 }
