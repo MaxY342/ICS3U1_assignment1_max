@@ -1,4 +1,4 @@
-# ICS3U1_assignment1_max
+# ICS3U1-Assignment 1-Git & GitHub-Max Yang
 - Grade 11 first assignment for git
 - Due: 09/26/2024
 
