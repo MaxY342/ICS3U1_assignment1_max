@@ -29,5 +29,10 @@ h1 {
     background-color: #151515;
     z-index: 2;
     position: relative;
-    padding: 14rem;
+    display: inline-block;
+}
+
+p {
+    font-size: 25px;
+    color: white;
 }
